@@ -4,7 +4,8 @@ Este projeto é um exmplo de como utilizar o [sphinx](https://www.sphinx-doc.org
 
 ----
 
-Para mais detalhes [veja este tutorial]() no medium.
+- Para mais detalhes [veja este tutorial]() no medium.
+- O diretório `docs_correct/` contém a configuração correta para gerar a documentação deste repositório (É necessário criar o ambiente virtual e instalar as depêndencias apenas)
 
 ## Configurando o ambiente
 
