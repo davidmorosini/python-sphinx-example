@@ -1,0 +1,4 @@
+pandas
+apache-airflow
+psycopg2
+Sphinx>=3.0.3
