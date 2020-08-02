@@ -11,7 +11,7 @@ Para mais detalhes [veja este tutorial]() no medium.
 - Clonar este repositório (Ou preparar o próprio projeto)
   
     ```bash
-    $ git clone https://github.com/davidmorosini/python-sphinx-example.git`
+    $ git clone https://github.com/davidmorosini/python-sphinx-example.git
     ```
 
 - Acessar o diretório raiz do projeto
