@@ -81,11 +81,11 @@ Este projeto é um exmplo de como utilizar o [sphinx](https://www.sphinx-doc.org
     ====================================================
 
     .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
+        :maxdepth: 2
+        :caption: Contents:
 
-    modules/example_sql_dag
-    modules/airflow_utils
+        modules/example_sql_dag
+        modules/airflow_utils
 
     Indices and tables
     ==================
@@ -103,14 +103,14 @@ Este projeto é um exmplo de como utilizar o [sphinx](https://www.sphinx-doc.org
         =====================
 
         .. toctree::
-        :maxdepth: 4
-        :caption: Contents:
+            :maxdepth: 4
+            :caption: Contents:
 
         Init
         ====
 
         .. automodule:: airflow_utils.postgres_dict
-        :members:
+            :members:
         ```
 
     - `example_sql_dag.rst`
@@ -119,20 +119,20 @@ Este projeto é um exmplo de como utilizar o [sphinx](https://www.sphinx-doc.org
         ===============
 
         .. toctree::
-        :maxdepth: 4
-        :caption: Contents:
+            :maxdepth: 4
+            :caption: Contents:
 
         Init
         ====
 
         .. automodule:: airflow_dags.example_sql_dag.__init__
-        :members:
+            :members:
 
         Utils
         =====
 
         .. automodule:: airflow_dags.example_sql_dag.utils.__init__
-        :members:
+            :members:
         ```
 
 - Volte até o diretório `docs/` e execute o comando
